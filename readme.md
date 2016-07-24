@@ -111,6 +111,20 @@ All divs inside the flex container are automatically turned into 'flex items'
 
   justify-content:flex-end;
 
+  justify-content:center;
+
+  justify-content:space-between;
+
+  justify-content:space-around;
+
+```
+
+- now change the container flex-direction to column, notice the space between/around is missing
+- set container min-height: 100vh;
+- change the font size to 10 on the box, now you should see the space
+- change justify-content to flex-start 
+- change justfy-content to center
+
 7) Alignment + Centering with align-items
 8) Alignment + Centering with align-content
 9) Alignment + Centering with align-self
