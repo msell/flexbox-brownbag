@@ -147,6 +147,7 @@ All divs inside the flex container are automatically turned into 'flex items'
 - change flex-direction to column and center and see what happens
 
 8) Alignment + Centering with align-content
+- add al
 9) Alignment + Centering with align-self
 10) Flexbox sizing with flex property
 11) Flexbox flex-gro, flex-shrink, and flex-basis
