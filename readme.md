@@ -103,11 +103,14 @@ All divs inside the flex container are automatically turned into 'flex items'
 
 
 6) Alignment + Centering with justify-content
-- setup
-  - remove any .box styling
 
-  - initialize container
-  .container
+```
+  justify-content:flex-start;
+
+  no change above because thats the default
+
+  justify-content:flex-end;
+
 7) Alignment + Centering with align-items
 8) Alignment + Centering with align-content
 9) Alignment + Centering with align-self
